@@ -1,4 +1,4 @@
-Feature: Performing two number operations
+Feature: Performing operations with two numbers
 
     Scenario: Adding two positive numbers
         When first number is 3
